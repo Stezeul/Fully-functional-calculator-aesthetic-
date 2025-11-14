@@ -19,7 +19,7 @@ neon/cyberpunk inspired interface.
 
 ## Demo & Screenshots
 
-![alt text](https://imgur.com/a/5SHKJvY)
+![Calculator picture](https://github.com/Stezeul/Fully-functional-calculator-aesthetic-/blob/5e5fa28719cee6ecc21217e4123d7ce790983d60/calculator%20ss.png)
 
 ## Features
 
